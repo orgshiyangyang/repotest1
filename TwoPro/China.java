@@ -1,6 +1,6 @@
 public class China(){
 	public static void main(String[] args){
-		system.out.print('hello');
+		system.out.print('china');
 	}
 }
 
