@@ -9,6 +9,6 @@ package com.aaa.git.controller;
 public class TestController {
     public static void main(String[] args) {
         System.out.println("syy..");
-        System.out.println("添加打印");
+        System.out.println("添加打印1");
     }
 }
